@@ -1,7 +1,7 @@
 |![Hapunan](https://github.com/user-attachments/assets/6ff998db-d172-4eba-90f5-a648ab53e8f5) | [![download](https://github.com/user-attachments/assets/9110de4e-8943-4a79-82e3-d49c58ff8704)](https://apkogy.com/hapunan/)|
 |:-------------------------------------------------:|-----------------------|
 | **Platform**: Android 5.0+                       | **Version**: 6.0     |
-| **Size**: 69 MB                                  | ⭐⭐⭐⭐⭐ (5/5) |
+| **Size**: 441 MB                                  | ⭐⭐⭐⭐⭐ (5/5) |
 
 ## [Download Hapunan APK](https://apkogy.com/hapunan/)
 
